@@ -1,6 +1,16 @@
 # Part IB Integrated Design Project (IDP)
 
-This repository contains example source for various elements of the IDP project.
+As part of Cambridge Engineering's Part IB Integrated Design Project, I worked with a team to design, build, and program an autonomous robot (running on a Raspberry Pi Pico, MicroPython) that follows a marked line, detects and picks up reels, identifies them by resistance value, and sorts them into the correct loading bay.
+
+Code I was primarily responsible for, in `/sw`:
+- `circuit.py`, `motor.py`, `grabber.py` — low-level hardware interfaces
+- `line.py`, `test_linelogic.py` — line-following logic and its tests
+- `reel_sensor.py`, `reellogictest.py`, `test_vl53l0x.py` — reel detection and resistance-based
+  classification
+- `pushbutton_logic.py` — start-button interrupt handling
+- `main.py` — overall control flow
+
+I also debugged and simplified `turning_tracker.py` and `start_box.py`, collaborating with a teammate.
 
 ## License and copyright
 
