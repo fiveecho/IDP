@@ -12,6 +12,9 @@ Code I was primarily responsible for, in `/sw`:
 
 I also debugged and simplified `turning_tracker.py` and `start_box.py`, collaborating with a teammate.
 
+<img width="108" height="60" alt="idp" src="https://github.com/user-attachments/assets/3a38658b-28e8-41f0-b122-ef3daf2945a8" />
+
+
 ## License and copyright
 
 All material is copyright of the original author (see the git commit).
