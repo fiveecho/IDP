@@ -12,7 +12,7 @@ Code I was primarily responsible for, in `/sw`:
 
 I also debugged and simplified `turning_tracker.py` and `start_box.py`, collaborating with a teammate.
 
-<img width="720" height="540" alt="Untitled - 11 October 2026 at 17 56 30" src="https://github.com/user-attachments/assets/8a2b6e6a-b979-4891-af7e-abbb0c2d0ad6" />
+<img width="360" height="203" alt="Untitled - 11 October 2026 at 17 56 30" src="https://github.com/user-attachments/assets/8a2b6e6a-b979-4891-af7e-abbb0c2d0ad6" />
 
 
 ## License and copyright
